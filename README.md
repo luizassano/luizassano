@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 &nbsp;Sobre mim:
 
-🎓 Me formei na Universidade Cruzeiro do Sul em (Análise e Desenvolvimento de Sistemas) em Dezembro de 2021.
+🎓 Estou me formando na Universidade De Santo Amaro em (Engenharia De Software) e me formo em junho de 2025.
 
 ✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil e me formo em novembro de 2022.
 
@@ -83,7 +83,7 @@
 
 ## 🔝 Most Used Languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiceljunior&layout=compact&hide_border=true&theme=great-gatsby" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizassano&layout=compact&hide_border=true&theme=great-gatsby" />
 
 ---
 
