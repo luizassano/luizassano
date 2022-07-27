@@ -16,14 +16,14 @@
 <br>
   
 <p align="center">
- <a href="https://drive.google.com/drive/u/0/folders/1BfQTodPM-Sb9pgFgo2lMdfJLxXYWrRcl" target="_blank">
+ <a href="https://drive.google.com/file/d/1-aC_XuCUTGgAYea_mgYipiHp-BXXKMuk/view?usp=sharing" target="_blank">
      CV
     </a>
 </p>
   
   ##
   
-<h3 align="center">Portfólio</h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/1-aC_XuCUTGgAYea_mgYipiHp-BXXKMuk/view?usp=sharing" target="_blank">Portfólio</h3>
   
   ##
   
