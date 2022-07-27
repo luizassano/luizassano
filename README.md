@@ -15,11 +15,11 @@
   ##
 <br>
   
-<p align="center">
+<h3 align="center">
  <a href="https://drive.google.com/file/d/1-aC_XuCUTGgAYea_mgYipiHp-BXXKMuk/view?usp=sharing" target="_blank">
      CV
     </a>
-</p>
+</h3>
   
   ##
   
