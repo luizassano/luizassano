@@ -81,11 +81,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 🔝 Most Used Languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizassano&layout=compact&hide_border=true&theme=great-gatsby" />
-
----
 
 
 ---
