@@ -6,7 +6,10 @@
   <a href="https://www.instagram.com/luiz_assano/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-
+## Meu Portfólio !!
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-augusto-assano/"><img src="https://img.shields.io/badge/-LINK-yellow?style=for-the-badge&logo=Site&logoColor=white" /></a>
+  
 </br>
 </br>
 
