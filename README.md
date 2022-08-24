@@ -8,7 +8,7 @@
 
 ## Meu Portfólio !!
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-augusto-assano/"><img src="https://img.shields.io/badge/-LINK-yellow?style=for-the-badge&logo=Site&logoColor=white" /></a>
+  <a href="https://portfolio-luiz-assano-luizassano.vercel.app/"><img src="https://img.shields.io/badge/-LINK PARA ACESSO-purple?style=for-the-badge&logo=Site&logoColor=white" /></a>
   
 </br>
 </br>
